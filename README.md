@@ -2,9 +2,10 @@
 Morse encoder and decoder system in python. It is an intermediate level project but quite easy to un derstand.
 
 ### Tools and Languages
-
-
-
+<img align="left" alt="Python" width="26px" src="python.png" />
+<img align="left" alt="pip" width="26px" height="34px" src="pip.png" />
+<img align="left" alt="VS Code" width="26px" src="vscode.png" />
+<br>
 
 ### Libraries used
 This is an intermediate level project but still doesn't need any extra libraries.
