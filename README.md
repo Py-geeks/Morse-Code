@@ -120,6 +120,6 @@ Hard-coded driver function to run the program.
 
 
 ### Developed By:
-[Ankush Mishra](github.com/ankush0939)
+[Ankush Mishra](https://github.com/ankush0939)
 
 
