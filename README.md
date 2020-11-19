@@ -117,6 +117,8 @@ if __name__ == '__main__':
 Hard-coded driver function to run the program.
 
 ### Sample Output
+<img src="ss1.jpg" >
+<img src="ss2.jpg" >
 
 
 
